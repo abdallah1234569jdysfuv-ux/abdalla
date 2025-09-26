@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="style.css">
+     <!-- لينك فونت أوسم للأيقونات -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>الشيخ عبدالله</title>
+</head>
+<body id="title"background-color: rgb(0, 0, 0); color: aliceblue;">
+<header style="background-color: rgb(0, 0, 0);">
+    <br><center><h1 style="color: rgba(7, 61, 255, 0.96);">الشيخ عبدالله أحمد</h1></center><br>
+
+    </header>
+
+    <h1> </h1>
+    <br>
+    <center><img src="Abdullah.jpg" alt="" style="width: 700px;height: 700px;"></center>
+
+    <br>
+<center><iframe width="250" height="250" src="https://www.youtube.com/embed/iOwi_Gtpip4?si=ihhieI5wz3X7_NrR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+</body>
+</html>
+
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>  الشيخ عبدالله احمد</title>
+  <style>
+    /* reset بسيط */
+    * {margin: 0; padding: 0; box-sizing: border-box; font-family: 'Tahoma', sans-serif;}
+
+    body {
+      background: #090956;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, #00ff4c, #070505);
+      color: #ffffff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+
+    #name1{
+    padding: 5px 10px;
+    background-color: rgb(13, 0, 255);
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+    transition: 0.3 ease-in;
+}
+
+a#name1:hover {
+    background-color: rgb(255, 250, 250);
+    color: rgb(2, 0, 0);
+
+}
+
+    header h1 {font-size: 2rem; margin-bottom: .5rem;}
+    header p {font-size: 1.1rem;}
+
+    section {
+      padding: 2rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    section h2 {
+      margin-bottom: 1rem;
+      font-size: 1.5rem;
+      color: #e7e7e7;
+    }
+
+    .card {
+      background: linear-gradient(135deg, hsla(92, 100%, 50%, 0.599), #000000);
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(94, 255, 0, 0.1);
+      margin-bottom: 1.5rem;
+    }
+
+    .social {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 1rem;
+    }
+    .social a {
+      font-size: 1.8rem;
+      color: #72b835;
+      transition: .3s;
+    }
+    .social a:hover {color: #e2d34a;}
+
+    footer {
+      background: #000000;
+      color: #1aff00;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+
+    /* موبايل */
+    @media (max-width: 600px) {
+      header h1 {font-size: 1.6rem;}
+      section h2 {font-size: 1.2rem;}
+    }
+  </style>
+</head>
+
+<body dir="rtl"> 
+  <!-- هيدر الصفحة -->
+  <header>
+ <h1>مرحباً، أنا الشيخ عبدالله أحمد</h7>
+   <P>(طالب مهتم بعالم التكنولوجيا والبرمجة)🚀 </p>
+    {01070678667}
+ <header id="title" style="background-color: rgb(0, 255, 213);">
+<header id="title" style="background-color: rgb(255, 255, 255);"></header>
+  <!-- عني -->
+  <section>
+  <h1>{أنا مين؟}</h2>
+    <div class="card">
+      <p>{أنا الشيخ عبدالله أحمد،عندي 19 سنة مواليد 2006 و عيد ميلادي 30/7 انا ساكن في العبودي خلف مستشفى الندى جنب صيدليه روشته  بحب  أتعلم البرمجة والتكنولوجيا من وأنا صغير. حابب أطور مهاراتي وأعمل مشاريع بسيطة تساعدني أكون مبرمج في المستقبل } 💻.</p>
+    </div>
+  </section>
+
+  <!-- هواياتي -->
+  <section>
+  <h2>{هواياتي}</h2>
+    <div class="card">
+      <ul>
+     <li>{البرمجة والتجارب بالكود}</li>
+      <li>{الألعاب الإلكترونية🎮}</li>
+     <li>[القراءة والبحث على الإنترنت}</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- عائلتي-->
+  <section>
+  <h2>{عائلتي}</h2>
+    <div class="card">
+      <ul>
+        <li> هادي </li>
+        <li>عبدالرحمن</li>
+        <li>الشيخ عبدالله</li>
+        <li>افنان</li>
+        <li>إيلاف</li>
+        <li>لين</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- تواصل معايا -->
+  <section>
+    <h2>تواصل معايا</h2>
+    <div class="card" style="text-align:center;">
+      <p>ممكن تتواصل معايا من خلال السوشيال ميديا:</p>
+      <div class="social">
+        <a href="https://wa.me/201070678667" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://www.facebook.com/share/1BWsXs7Zms/" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.youtube.com/@%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%D8%A7%D8%AD%D9%85%D8%AF-%D8%AE7%D8%AB3%D8%B9" target="_blank"><i class="fab fa-youtube"></i></a>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- فوتر -->
+  <footer>
+    <p>{23\9\2025  الشيخ عبدالله أحمد}</p>
+  </footer>
+  
+</html>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>الشيخ  عبدالله أحمد،</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>الشيخ عبدالله أحمد،</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">نبذة</a></li>
+        <li><a href="#media">تلاوات</a></li>
+        <li><a href="#schedule">الجدول</a></li>
+        <li><a href="#contact">تواصل</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>نبذة عن الشيخ</h2>
+    <p>الشيخ  عبدالله أحمد هو وأحد قراء القرآن الكريم المميزين في العالم الإسلامي.</p>
+  </section>
+
+  <section id="media">
+    <h2>تلاوات مختارة</h2>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=EXAMPLE1" target="_blank">تلاوة من سورة ق</a></li>
+      <li><a href="https://www.youtube.com/watch?v=EXAMPLE2" target="_blank">تلاوة من سورة محمد</a></li>
+    </ul>
+  </section>
+
+  <section id="schedule">
+    <h2>جدول الإمامة</h2>
+    <p>سيتم تحديث الجدول قريبًا.</p>
+  </section>
+
+  <section id="contact">
+    <h2>تواصل مع الشيخ</h2>
+    <p>للتواصل عبر وسائل التواصل الاجتماعي:</p>
+    <ul>
+      <li><a href="https://twitter.com/YasserDosari" target="_blank">تويتر</a></li>
+       <a href="https://www.youtube.com/@%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%D8%A7%D8%AD%D9%85%D8%AF-%D8%AE7%D8%AB3%D8%B9" target="_blank"><i class="fab fa-youtube"></i>https://www.facebook.com/share/1BWsXs7Zms/</a></a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p> 23/9/2025 جميع الحقوق محفوظة</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+</body>
+</html>
